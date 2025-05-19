@@ -72,7 +72,7 @@ APPINSIGHTS_CONNECTION_STRING="your_app_insights_connection_string"
 ## 🌐 Live Deployment
 
 The application is deployed on **Azure App Services** and can be accessed at:  
-🔗 [https://6604193gulamhasang1-fcbkgjg4g7h3ebck.centralindia-01.azurewebsites.net](https://6604193gulamhasang1-fcbkgjg4g7h3ebck.centralindia-01.azurewebsites.net)
+🔗 [https://6604641-fcbkgjg4g7h3ebck.centralindia-01.azurewebsites.net](https://6604193gulamhasang1-fcbkgjg4g7h3ebck.centralindia-01.azurewebsites.net)
 
 ### Deployment Details:
 - **Service:** Azure Web Apps
