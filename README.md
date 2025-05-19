@@ -1,4 +1,4 @@
-# CampusGriev - Student Complaint Management System
+Student Complaint Management System by Adityayadav2406
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Flask](https://img.shields.io/badge/flask-2.0+-lightgrey.svg)
